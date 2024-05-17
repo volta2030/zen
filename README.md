@@ -11,4 +11,5 @@ Programming Language
 
 - bit : 0 or 1
 - byte : 8bit
-- bool : 1bit
+- bool : 1bit : TRUE | FALSE
+- trinary : 2bit : GOOD | SOSO | BAD
